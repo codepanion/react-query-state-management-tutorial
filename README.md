@@ -1,3 +1,8 @@
+# react-query tutorial
+Short tutorial with some examples of using react-query library.
+
+Here is a video demo: https://youtu.be/vP4U8o1dAQE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
